@@ -22,6 +22,15 @@ To get started, follow these steps:
 2. Install FFmpeg (if not already installed).
 3. Install PyQt6 (if not already installed).
 
+## Output Optimization
+
+To get optimized output, ensure the input folders contain:
+
+1. Same file names when using similar file names method
+2. Have same duration (video trimmer/splitter/looper are all the functions in WWBOT)
+3. Have same video types (in this case .mp4 videos)
+4. Preferably have same video qualities
+
 ## Contributions
 
 We welcome contributions to this project. Please follow our [contribution guidelines](CONTRIBUTING.md) to contribute effectively.
