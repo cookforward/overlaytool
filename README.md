@@ -24,8 +24,11 @@ To get started, follow these steps:
 
 ## Usage
 <details>
-  python overlaytool.py
-  <button onclick="copyToClipboard('# Run OverlayTool with the following command:\npython overlaytool.py --options')">Copy</button>
+  <summary>Usage</summary>
+  
+  ```bash
+  # Run OverlayTool with the following command:
+  python overlaytool.py --options
 </details>
 
 ## Contributions
