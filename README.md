@@ -1,7 +1,3 @@
-Certainly, here's a more professional and organized version of the text for a GitHub readme:
-
----
-
 # OverlayTool
 
 ## Overview
