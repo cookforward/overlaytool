@@ -22,15 +22,6 @@ To get started, follow these steps:
 2. Install FFmpeg (if not already installed).
 3. Install PyQt6 (if not already installed).
 
-## Usage
-<details>
-  <summary>Usage</summary>
-  
-  ```bash
-  # Run OverlayTool with the following command:
-  python overlaytool.py --options
-</details>
-
 ## Contributions
 
 We welcome contributions to this project. Please follow our [contribution guidelines](CONTRIBUTING.md) to contribute effectively.
