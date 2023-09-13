@@ -24,10 +24,8 @@ To get started, follow these steps:
 
 ## Usage
 <details>
-<summary>
   python overlaytool.py
   <button onclick="copyToClipboard('python overlaytool.py')">Copy</button>
-</summary>
 </details>
 
 ## Contributions
