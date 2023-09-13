@@ -26,7 +26,7 @@ To get started, follow these steps:
 
 <details>
   python overlaytool.py
-  <button onclick="copyToClipboard('# Run OverlayTool with the following command:\npython overlaytool.py --options')">Copy</button>
+  <button onclick="copyToClipboard('python overlaytool.py')">Copy</button>
 </details>
 
 ## Contributions
